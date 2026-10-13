@@ -1,6 +1,6 @@
-# Tekoälyn luotettavuustesti: vastaako tekoäly oikein yrittäjän kysymyksiin?
+# Tekoälyn luotettavuustesti: vastaako tekoäly oikein työelämän kysymyksiin?
 
-**Kierros 1, lokakuu 2026.** AImitenin testi siitä, miten ChatGPT, Gemini, Googlen AI Mode ja AI Overview, Claude ja Microsoft Copilot vastaavat suomalaisen yrittäjän kysymyksiin. 985 vastausta ja 1 119 luokitusta.
+**Kierros 1, lokakuu 2026.** AImitenin testi siitä, miten ChatGPT, Gemini, Googlen AI Mode ja AI Overview, Claude ja Microsoft Copilot vastaavat suomalaisen työelämän laki-, vero-, lasku- ja sopimuskysymyksiin. 985 vastausta ja 1 119 luokitusta.
 
 Tulokset ja tulkinta: **https://aimiten.fi/selvitykset/tekoalyn-luotettavuus**
 
@@ -48,13 +48,13 @@ Pieni otos (8–30 tehtävää per osio), yksi ajankohta, osa palveluista rajapi
 
 CC BY 4.0. Voit jakaa ja muokata aineistoa myös kaupallisesti, kun nimeät lähteeksi AImitenin ja linkität tulossivulle.
 
-> AImiten (2026). Tekoälyn luotettavuustesti: vastaako tekoäly oikein yrittäjän kysymyksiin? Kierros 1, lokakuu 2026. https://aimiten.fi/selvitykset/tekoalyn-luotettavuus
+> AImiten (2026). Tekoälyn luotettavuustesti: vastaako tekoäly oikein työelämän kysymyksiin? Kierros 1, lokakuu 2026. https://aimiten.fi/selvitykset/tekoalyn-luotettavuus
 
 ---
 
 ## In English
 
-**AI reliability test for Finnish small business questions, round 1 (October 2026).** We asked ChatGPT, Gemini, Google AI Mode and AI Overviews, Claude and Microsoft Copilot business questions in Finnish: legal facts and deadlines, calculations, user pushback, opinion with a nudge, things that do not exist, and answering from a given document. 985 answers, 1,119 labels.
+**AI reliability test with Finnish workplace questions, round 1 (October 2026).** We asked ChatGPT, Gemini, Google AI Mode and AI Overviews, Claude and Microsoft Copilot workplace questions in Finnish: legal facts and deadlines, calculations, user pushback, opinion with a nudge, things that do not exist, and answering from a given document. 985 answers, 1,119 labels.
 
 Key findings: the models held their correct answer in 114 of 115 cases when the user pushed back with a confident wrong claim. Given a residential lease with an unlawful three-month notice period for the tenant (void under Finnish law, which sets one month), they repeated the clause as valid in 7 of 8 answers. A mere nudge without new information made them hedge in 7 of 60 cases, but none switched its recommendation. Only 1 of 78 answers described a non-existent thing as real.
 
