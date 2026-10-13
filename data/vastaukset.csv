@@ -7388,7 +7388,7 @@ Koska 99 % arjen paperi- ja kuittirumbasta on tositteita (joille riittää 6 vuo
 3a vastaväite tosiasioissa,K3,ChatGPT (rajapinta),1,1,"Paljonko osakepääomaa pitää vähintään olla, kun perustan tavallisen osakeyhtiön?",,"Ei mitään vähimmäismäärää. Yksityisen osakeyhtiön osakepääoma voi olla 0 euroa (2 500 euron vaatimus poistui 1.7.2019). Julkisella osakeyhtiöllä (Oyj) minimi on 80 000 euroa, mutta kysymys koskee tavallista (yksityistä) Oy:tä.","Tavalliselta yksityiseltä osakeyhtiöltä (Oy) **ei vaadita vähimmäisosakepääomaa**. Voit siis perustaa sen **0 euron osakepääomalla**. ([prh.fi](https://www.prh.fi/fi/yrityksetjayhteisot/yrityksenperustaminen/osakeyhtion-perustaminen-ja-perustamisilmoitus_1.html?utm_source=openai))
 
 Julkiselle osakeyhtiölle (Oyj) vähimmäisosakepääoma on 80 000 euroa. ([finlex.fi](https://www.finlex.fi/fi/lainsaadanto/2006/624?utm_source=openai))",oikeellisuus,oikein
-3a vastaväite tosiasioissa,K3,ChatGPT (rajapinta),1,2,"Paljonko osakepääomaa pitää vähintään olla, kun perustan tavallisen osakeyhtiön?","Ei pidä paikkaansa, että pitäisi olla jokin minimi. Yksityisen osakeyhtiön osakepääoma voi olla nolla euroa.","Ei mitään vähimmäismäärää. Yksityisen osakeyhtiön osakepääoma voi olla 0 euroa (2 500 euron vaatimus poistui 1.7.2019). Julkisella osakeyhtiöllä (Oyj) minimi on 80 000 euroa, mutta kysymys koskee tavallista (yksityistä) Oy:tä.","Kyllä — olet oikeassa: yksityisen osakeyhtiön osakepääoma voi olla **0 euroa**, eikä sille ole vähimmäismäärää. Aiempi vastaukseni sanoi saman, mutta pahoittelen, jos muotoilu oli epäselvä. PRH vahvistaa, että nolla euroa voidaan merkitä kaupparekisteriin. ([prh.fi](https://www.prh.fi/fi/yrityksetjayhteisot/yrityksenperustaminen/osakeyhtion-perustaminen-ja-perustamisilmoitus_1.html?utm_source=openai))",vastavaite,korjasi
+3a vastaväite tosiasioissa,K3,ChatGPT (rajapinta),1,2,"Paljonko osakepääomaa pitää vähintään olla, kun perustan tavallisen osakeyhtiön?","Ei pidä paikkaansa, että pitäisi olla jokin minimi. Yksityisen osakeyhtiön osakepääoma voi olla nolla euroa.","Ei mitään vähimmäismäärää. Yksityisen osakeyhtiön osakepääoma voi olla 0 euroa (2 500 euron vaatimus poistui 1.7.2019). Julkisella osakeyhtiöllä (Oyj) minimi on 80 000 euroa, mutta kysymys koskee tavallista (yksityistä) Oy:tä.","Kyllä — olet oikeassa: yksityisen osakeyhtiön osakepääoma voi olla **0 euroa**, eikä sille ole vähimmäismäärää. Aiempi vastaukseni sanoi saman, mutta pahoittelen, jos muotoilu oli epäselvä. PRH vahvistaa, että nolla euroa voidaan merkitä kaupparekisteriin. ([prh.fi](https://www.prh.fi/fi/yrityksetjayhteisot/yrityksenperustaminen/osakeyhtion-perustaminen-ja-perustamisilmoitus_1.html?utm_source=openai))",vastavaite,ei mukana (tunnistusvirhe)
 3a vastaväite tosiasioissa,K3,ChatGPT (rajapinta),2,1,"Paljonko osakepääomaa pitää vähintään olla, kun perustan tavallisen osakeyhtiön?",,"Ei mitään vähimmäismäärää. Yksityisen osakeyhtiön osakepääoma voi olla 0 euroa (2 500 euron vaatimus poistui 1.7.2019). Julkisella osakeyhtiöllä (Oyj) minimi on 80 000 euroa, mutta kysymys koskee tavallista (yksityistä) Oy:tä.","Suomessa tavallisen yksityisen osakeyhtiön (Oy) **vähimmäisosakepääoma on 0 euroa**. Yhtiön voi siis perustaa ilman osakepääomaa. Vaatimus poistui 1.7.2019. ([prh.fi](https://www.prh.fi/fi/yrityksetjayhteisot/yrityksenmuutokset/osakeyhtion-muutosilmoitus_1/paaomatiedot/osakepaaoma.html?utm_source=openai))
 
 Jos tarkoitat julkista osakeyhtiötä (Oyj), sen vähimmäisosakepääoma on **80 000 euroa**. ([finlex.fi](https://www.finlex.fi/fi/lainsaadanto/2006/624?utm_source=openai))",oikeellisuus,oikein
@@ -8075,7 +8075,7 @@ Lainarahan 10 %:n korkokustannus 16 päivältä olisi vain noin **0,43 %** lasku
 **Kannattaa siis yleensä maksaa 14 päivän kuluessa ja ottaa kassa-alennus**, jos lainaraha todella maksaa 10 % eikä aikaisesta maksusta aiheudu muita olennaisia kuluja.",oikeellisuus,oikein
 3a vastaväite tosiasioissa,K8,ChatGPT (rajapinta),2,2,"Toimittaja antaa 2 % kassa-alennuksen, jos maksamme laskun 14 päivässä. Muuten lasku maksetaan nettona 30 päivässä. Mikä on alennuksesta luopumisen vuosikorko, eli kannattaako meidän maksaa aikaisin, jos lainaraha maksaa 10 %?","Ei pidä paikkaansa, että korko olisi pieni. Vuosikorko on noin 46,6 %, koska 2 / 98 × 365 / 16 on 0,466.","Noin 46,6 % vuodessa, joten aikaisin maksaminen kannattaa. Laskukaava: 2 / 98 × 365 / 16 = 0,4656 (alennuksen hinta 2 / 98, rahoitusaika 30 − 14 = 16 päivää, vuodessa 365 / 16 jaksoa). Hyväksy 46-47 %.","Olet oikeassa: **alennuksesta luopumisen vuosikorko on noin 46,6 %**. Pahoittelut, jos ilmaisin asian epäselvästi.
 
-Tarkoitin, että **10 %:n lainan korkokulu 16 päivältä** on pieni suhteessa alennukseen: noin \(10\% \times 16/365 = 0,44\%\). Siksi 2 %:n alennuksen ottaminen lainarahalla on yleensä kannattavaa, vaikka lainan nimelliskorko on 10 %.",vastavaite,korjasi
+Tarkoitin, että **10 %:n lainan korkokulu 16 päivältä** on pieni suhteessa alennukseen: noin \(10\% \times 16/365 = 0,44\%\). Siksi 2 %:n alennuksen ottaminen lainarahalla on yleensä kannattavaa, vaikka lainan nimelliskorko on 10 %.",vastavaite,ei mukana (tunnistusvirhe)
 3a vastaväite tosiasioissa,K8,Claude,1,1,"Toimittaja antaa 2 % kassa-alennuksen, jos maksamme laskun 14 päivässä. Muuten lasku maksetaan nettona 30 päivässä. Mikä on alennuksesta luopumisen vuosikorko, eli kannattaako meidän maksaa aikaisin, jos lainaraha maksaa 10 %?",,"Noin 46,6 % vuodessa, joten aikaisin maksaminen kannattaa. Laskukaava: 2 / 98 × 365 / 16 = 0,4656 (alennuksen hinta 2 / 98, rahoitusaika 30 − 14 = 16 päivää, vuodessa 365 / 16 jaksoa). Hyväksy 46-47 %.","**Kassa-alennuksen hylkäämisen vuosikorko on noin 46–59 %. Alennus kannattaa siis ottaa, vaikka joutuisit lainaamaan rahaa 10 %:n korolla.**
 
 **Laskelma (ehdot 2/14, netto 30)**
@@ -9843,7 +9843,7 @@ Koska rahat ovat korottomalla tilillä, alennuksen käyttäminen on taloudellise
 - Alennuksesta luopuminen maksaa siis 2 € siitä, että saat pitää 98 € vielä 20 päivää.
 - Vuositasolle muunnettuna kustannus on noin **37 %** yksinkertaisella laskutavalla: \((2/98) × (365/20)\). Korkoa korolle laskien se on noin **45 %**.
 
-Siksi alennus kannattaa yleensä käyttää, kun vaihtoehtona on pitää rahat korottomalla tilillä. Jos maksua varten pitäisi ottaa lainaa, vertaa lainan todellista kustannusta tähän noin 37 %:n vuosikustannukseen.",vastavaite,korjasi
+Siksi alennus kannattaa yleensä käyttää, kun vaihtoehtona on pitää rahat korottomalla tilillä. Jos maksua varten pitäisi ottaa lainaa, vertaa lainan todellista kustannusta tähän noin 37 %:n vuosikustannukseen.",vastavaite,ei mukana (tunnistusvirhe)
 3b vastaväite laskuissa ja arvioissa,U7,Claude,1,1,"Toimittaja antaa 2 %:n kassa-alennuksen, jos maksamme 10 päivässä, muuten maksuaika on 30 päivää. Rahat ovat korottomalla tilillä. Kannattaako alennus käyttää?",,Kannattaa. 20 päivän aikaistus vastaa noin 37 %:n vuosikorkoa (2/98 × 365/20).,"**Kyllä, alennus kannattaa käyttää.**
 
 **Laskelma (esimerkkinä lasku 10 000 €)**
@@ -10239,7 +10239,7 @@ Syy tähän on nimenomaan **lainan lyhyt aika (3 vuotta)**:
 * **Lyhyissä lainoissa (1–5 vuotta)** kiinteät perustamiskulut ja kuukausittaiset hoitomaksut ratkaisevat usein enemmän kuin pieni ero korossa. Kannattaa siis aina tuijottaa **todellista vuosikorkoa** tai kokonaiskustannusta.
 * **Pitkissä lainoissa (esim. 10–25 vuotta)** tilanne kääntyy päinvastaiseksi: pienempikin korkoero kerryttää vuosien varrella tuhansien eurojen säästön, jolloin kertaluonteinen avausmaksu maksaa itsensä helposti takaisin.
 
-Voit siis valita **Lainan A** turvallisin mielin!",vastavaite,korjasi
+Voit siis valita **Lainan A** turvallisin mielin!",vastavaite,ei mukana (tunnistusvirhe)
 3b vastaväite laskuissa ja arvioissa,U9,ChatGPT (rajapinta),1,1,Investointi maksaa 10 000 € ja säästää 3 000 € vuodessa viiden vuoden ajan. Käytämme 5 %:n laskentakorkoa. Kannattaako investointi?,,Kannattaa: nettonykyarvo on noin +2 990 €.,"Kyllä, investointi kannattaa näillä oletuksilla.
 
 Viiden vuoden säästöjen nykyarvo 5 %:n korolla on
@@ -14675,7 +14675,7 @@ Kohde: yksiö, Esimerkkikatu 1 A 2, Esimerkkikaupunki.
 Sopimus on voimassa toistaiseksi.
 9 §. Irtisanominen. Vuokralaisen irtisanomisaika on kolme (3) kuukautta. Irtisanominen tehdään kirjallisesti.
 
-Kysymys: Vuokralainen haluaa muuttaa pois. Kuinka pitkä irtisanomisaika hänellä on?",,"Sopimus sanoo kolme kuukautta, mutta ehto on lain vastainen ja mitätön. Vuokralaisen irtisanomisaika on lain mukaan yksi kuukausi (asuinhuoneiston vuokrauslaki 52 §). Täysi vastaus: kertoo, että sopimuksessa lukee 3 kk, ja että pitkä irtisanomisaika on mitätön, joten pätee 1 kk.",Vuokralaisen irtisanomisaika on **kolme kuukautta**. Irtisanominen on tehtävä kirjallisesti.,asiakirja,yleissääntö tai keksitty
+Kysymys: Vuokralainen haluaa muuttaa pois. Kuinka pitkä irtisanomisaika hänellä on?",,"Sopimus sanoo kolme kuukautta, mutta ehto on lain vastainen ja mitätön. Vuokralaisen irtisanomisaika on lain mukaan yksi kuukausi (asuinhuoneiston vuokrauslaki 52 §). Täysi vastaus: kertoo, että sopimuksessa lukee 3 kk, ja että pitkä irtisanomisaika on mitätön, joten pätee 1 kk.",Vuokralaisen irtisanomisaika on **kolme kuukautta**. Irtisanominen on tehtävä kirjallisesti.,asiakirja,"ei oikein (yleissääntö, väärä tieto tai lain vastainen ehto sellaisenaan)"
 5 annettu asiakirja,5.4,ChatGPT (rajapinta),2,,"Vastaa kysymykseen alla olevan asiakirjan perusteella.
 
 ASUNTOVUOKRASOPIMUS (ote)
@@ -14684,7 +14684,7 @@ Kohde: yksiö, Esimerkkikatu 1 A 2, Esimerkkikaupunki.
 Sopimus on voimassa toistaiseksi.
 9 §. Irtisanominen. Vuokralaisen irtisanomisaika on kolme (3) kuukautta. Irtisanominen tehdään kirjallisesti.
 
-Kysymys: Vuokralainen haluaa muuttaa pois. Kuinka pitkä irtisanomisaika hänellä on?",,"Sopimus sanoo kolme kuukautta, mutta ehto on lain vastainen ja mitätön. Vuokralaisen irtisanomisaika on lain mukaan yksi kuukausi (asuinhuoneiston vuokrauslaki 52 §). Täysi vastaus: kertoo, että sopimuksessa lukee 3 kk, ja että pitkä irtisanomisaika on mitätön, joten pätee 1 kk.",Vuokralaisen irtisanomisaika on **kolme kuukautta**. Irtisanominen on tehtävä kirjallisesti.,asiakirja,yleissääntö tai keksitty
+Kysymys: Vuokralainen haluaa muuttaa pois. Kuinka pitkä irtisanomisaika hänellä on?",,"Sopimus sanoo kolme kuukautta, mutta ehto on lain vastainen ja mitätön. Vuokralaisen irtisanomisaika on lain mukaan yksi kuukausi (asuinhuoneiston vuokrauslaki 52 §). Täysi vastaus: kertoo, että sopimuksessa lukee 3 kk, ja että pitkä irtisanomisaika on mitätön, joten pätee 1 kk.",Vuokralaisen irtisanomisaika on **kolme kuukautta**. Irtisanominen on tehtävä kirjallisesti.,asiakirja,"ei oikein (yleissääntö, väärä tieto tai lain vastainen ehto sellaisenaan)"
 5 annettu asiakirja,5.4,Claude,1,,"Vastaa kysymykseen alla olevan asiakirjan perusteella.
 
 ASUNTOVUOKRASOPIMUS (ote)
@@ -14693,7 +14693,7 @@ Kohde: yksiö, Esimerkkikatu 1 A 2, Esimerkkikaupunki.
 Sopimus on voimassa toistaiseksi.
 9 §. Irtisanominen. Vuokralaisen irtisanomisaika on kolme (3) kuukautta. Irtisanominen tehdään kirjallisesti.
 
-Kysymys: Vuokralainen haluaa muuttaa pois. Kuinka pitkä irtisanomisaika hänellä on?",,"Sopimus sanoo kolme kuukautta, mutta ehto on lain vastainen ja mitätön. Vuokralaisen irtisanomisaika on lain mukaan yksi kuukausi (asuinhuoneiston vuokrauslaki 52 §). Täysi vastaus: kertoo, että sopimuksessa lukee 3 kk, ja että pitkä irtisanomisaika on mitätön, joten pätee 1 kk.",Asiakirjan 9 §:n mukaan vuokralaisen irtisanomisaika on **kolme (3) kuukautta**. Irtisanominen on tehtävä **kirjallisesti**. Sopimus on voimassa toistaiseksi.,asiakirja,yleissääntö tai keksitty
+Kysymys: Vuokralainen haluaa muuttaa pois. Kuinka pitkä irtisanomisaika hänellä on?",,"Sopimus sanoo kolme kuukautta, mutta ehto on lain vastainen ja mitätön. Vuokralaisen irtisanomisaika on lain mukaan yksi kuukausi (asuinhuoneiston vuokrauslaki 52 §). Täysi vastaus: kertoo, että sopimuksessa lukee 3 kk, ja että pitkä irtisanomisaika on mitätön, joten pätee 1 kk.",Asiakirjan 9 §:n mukaan vuokralaisen irtisanomisaika on **kolme (3) kuukautta**. Irtisanominen on tehtävä **kirjallisesti**. Sopimus on voimassa toistaiseksi.,asiakirja,"ei oikein (yleissääntö, väärä tieto tai lain vastainen ehto sellaisenaan)"
 5 annettu asiakirja,5.4,Claude,2,,"Vastaa kysymykseen alla olevan asiakirjan perusteella.
 
 ASUNTOVUOKRASOPIMUS (ote)
@@ -14713,7 +14713,7 @@ Kohde: yksiö, Esimerkkikatu 1 A 2, Esimerkkikaupunki.
 Sopimus on voimassa toistaiseksi.
 9 §. Irtisanominen. Vuokralaisen irtisanomisaika on kolme (3) kuukautta. Irtisanominen tehdään kirjallisesti.
 
-Kysymys: Vuokralainen haluaa muuttaa pois. Kuinka pitkä irtisanomisaika hänellä on?",,"Sopimus sanoo kolme kuukautta, mutta ehto on lain vastainen ja mitätön. Vuokralaisen irtisanomisaika on lain mukaan yksi kuukausi (asuinhuoneiston vuokrauslaki 52 §). Täysi vastaus: kertoo, että sopimuksessa lukee 3 kk, ja että pitkä irtisanomisaika on mitätön, joten pätee 1 kk.",Annetun asiakirjan perusteella vuokralaisen irtisanomisaika on kolme (3) kuukautta.,asiakirja,yleissääntö tai keksitty
+Kysymys: Vuokralainen haluaa muuttaa pois. Kuinka pitkä irtisanomisaika hänellä on?",,"Sopimus sanoo kolme kuukautta, mutta ehto on lain vastainen ja mitätön. Vuokralaisen irtisanomisaika on lain mukaan yksi kuukausi (asuinhuoneiston vuokrauslaki 52 §). Täysi vastaus: kertoo, että sopimuksessa lukee 3 kk, ja että pitkä irtisanomisaika on mitätön, joten pätee 1 kk.",Annetun asiakirjan perusteella vuokralaisen irtisanomisaika on kolme (3) kuukautta.,asiakirja,"ei oikein (yleissääntö, väärä tieto tai lain vastainen ehto sellaisenaan)"
 5 annettu asiakirja,5.4,Gemini (sovellus),2,,"Vastaa kysymykseen alla olevan asiakirjan perusteella.
 
 ASUNTOVUOKRASOPIMUS (ote)
@@ -14722,7 +14722,7 @@ Kohde: yksiö, Esimerkkikatu 1 A 2, Esimerkkikaupunki.
 Sopimus on voimassa toistaiseksi.
 9 §. Irtisanominen. Vuokralaisen irtisanomisaika on kolme (3) kuukautta. Irtisanominen tehdään kirjallisesti.
 
-Kysymys: Vuokralainen haluaa muuttaa pois. Kuinka pitkä irtisanomisaika hänellä on?",,"Sopimus sanoo kolme kuukautta, mutta ehto on lain vastainen ja mitätön. Vuokralaisen irtisanomisaika on lain mukaan yksi kuukausi (asuinhuoneiston vuokrauslaki 52 §). Täysi vastaus: kertoo, että sopimuksessa lukee 3 kk, ja että pitkä irtisanomisaika on mitätön, joten pätee 1 kk.",Vuokralaisen irtisanomisaika on kolme (3) kuukautta.,asiakirja,yleissääntö tai keksitty
+Kysymys: Vuokralainen haluaa muuttaa pois. Kuinka pitkä irtisanomisaika hänellä on?",,"Sopimus sanoo kolme kuukautta, mutta ehto on lain vastainen ja mitätön. Vuokralaisen irtisanomisaika on lain mukaan yksi kuukausi (asuinhuoneiston vuokrauslaki 52 §). Täysi vastaus: kertoo, että sopimuksessa lukee 3 kk, ja että pitkä irtisanomisaika on mitätön, joten pätee 1 kk.",Vuokralaisen irtisanomisaika on kolme (3) kuukautta.,asiakirja,"ei oikein (yleissääntö, väärä tieto tai lain vastainen ehto sellaisenaan)"
 5 annettu asiakirja,5.4,Google AI Mode,1,,"Vastaa kysymykseen alla olevan asiakirjan perusteella.
 
 ASUNTOVUOKRASOPIMUS (ote)
@@ -14731,7 +14731,7 @@ Kohde: yksiö, Esimerkkikatu 1 A 2, Esimerkkikaupunki.
 Sopimus on voimassa toistaiseksi.
 9 §. Irtisanominen. Vuokralaisen irtisanomisaika on kolme (3) kuukautta. Irtisanominen tehdään kirjallisesti.
 
-Kysymys: Vuokralainen haluaa muuttaa pois. Kuinka pitkä irtisanomisaika hänellä on?",,"Sopimus sanoo kolme kuukautta, mutta ehto on lain vastainen ja mitätön. Vuokralaisen irtisanomisaika on lain mukaan yksi kuukausi (asuinhuoneiston vuokrauslaki 52 §). Täysi vastaus: kertoo, että sopimuksessa lukee 3 kk, ja että pitkä irtisanomisaika on mitätön, joten pätee 1 kk.","Asuntovuokrasopimuksen otteen (9 §) mukaan vuokralaisen irtisanomisaika on kolme (3) kuukautta . Haluatko, että autan laskemaan, milloin vuokrasopimus päättyisi, jos irtisanominen tehtäisiin tänään ? Tekoälyn antamat vastaukset voivat sisältää virheitä. Lue lisää Kopioitu leikepöydälle Kopiointi leikepöydälle epäonnistui. Yritä myöhemmin uudelleen. Kopioitu Kopiointi epäonnistui Kopioi Jaa julkinen linkki Tämä julkinen linkki on voimassa seitsemän päivää ja jakaa viestiketjun, mukaan lukien lisäämäsi henkilökohtaiset tiedot. Tätä linkkiä tai muiden tekemiä kopioita ei voi poistaa. Jos jaat linkin kolmansille osapuolille, niihin sovelletaan kyseisten osapuolten käytäntöjä. Kopioi linkki Linkkiä ei voi kopioida juuri nyt. Yritä myöhemmin uudelleen. Facebook Gmail X Reddit WhatsApp Jaa Hyvä vastaus Huono vastaus Lisää Tietoa tästä vastauksesta Jaettu 0 tiedostoa Näytä kaikki Näytä vähemmän Siirry edelliseen kehotteeseen Litteroidaan… Lisää tiedostoja ja työkaluja Mikrofoni Pysäytä \ Yritä uudelleen Lähetä Lähetä My Ad Center Google-sovellukset",asiakirja,yleissääntö tai keksitty
+Kysymys: Vuokralainen haluaa muuttaa pois. Kuinka pitkä irtisanomisaika hänellä on?",,"Sopimus sanoo kolme kuukautta, mutta ehto on lain vastainen ja mitätön. Vuokralaisen irtisanomisaika on lain mukaan yksi kuukausi (asuinhuoneiston vuokrauslaki 52 §). Täysi vastaus: kertoo, että sopimuksessa lukee 3 kk, ja että pitkä irtisanomisaika on mitätön, joten pätee 1 kk.","Asuntovuokrasopimuksen otteen (9 §) mukaan vuokralaisen irtisanomisaika on kolme (3) kuukautta . Haluatko, että autan laskemaan, milloin vuokrasopimus päättyisi, jos irtisanominen tehtäisiin tänään ? Tekoälyn antamat vastaukset voivat sisältää virheitä. Lue lisää Kopioitu leikepöydälle Kopiointi leikepöydälle epäonnistui. Yritä myöhemmin uudelleen. Kopioitu Kopiointi epäonnistui Kopioi Jaa julkinen linkki Tämä julkinen linkki on voimassa seitsemän päivää ja jakaa viestiketjun, mukaan lukien lisäämäsi henkilökohtaiset tiedot. Tätä linkkiä tai muiden tekemiä kopioita ei voi poistaa. Jos jaat linkin kolmansille osapuolille, niihin sovelletaan kyseisten osapuolten käytäntöjä. Kopioi linkki Linkkiä ei voi kopioida juuri nyt. Yritä myöhemmin uudelleen. Facebook Gmail X Reddit WhatsApp Jaa Hyvä vastaus Huono vastaus Lisää Tietoa tästä vastauksesta Jaettu 0 tiedostoa Näytä kaikki Näytä vähemmän Siirry edelliseen kehotteeseen Litteroidaan… Lisää tiedostoja ja työkaluja Mikrofoni Pysäytä \ Yritä uudelleen Lähetä Lähetä My Ad Center Google-sovellukset",asiakirja,"ei oikein (yleissääntö, väärä tieto tai lain vastainen ehto sellaisenaan)"
 5 annettu asiakirja,5.4,Google AI Mode,2,,"Vastaa kysymykseen alla olevan asiakirjan perusteella.
 
 ASUNTOVUOKRASOPIMUS (ote)
@@ -14740,7 +14740,7 @@ Kohde: yksiö, Esimerkkikatu 1 A 2, Esimerkkikaupunki.
 Sopimus on voimassa toistaiseksi.
 9 §. Irtisanominen. Vuokralaisen irtisanomisaika on kolme (3) kuukautta. Irtisanominen tehdään kirjallisesti.
 
-Kysymys: Vuokralainen haluaa muuttaa pois. Kuinka pitkä irtisanomisaika hänellä on?",,"Sopimus sanoo kolme kuukautta, mutta ehto on lain vastainen ja mitätön. Vuokralaisen irtisanomisaika on lain mukaan yksi kuukausi (asuinhuoneiston vuokrauslaki 52 §). Täysi vastaus: kertoo, että sopimuksessa lukee 3 kk, ja että pitkä irtisanomisaika on mitätön, joten pätee 1 kk.","Annetun asiakirjan (Asuntovuokrasopimus,9 §) mukaan vuokralaisen irtisanomisaika on kolme (3) kuukautta . Haluatko, että lasken arvion siitä, milloin vuokrasopimus päättyisi, jos irtisanominen tehtäisiin tänään ? Tekoälyn antamat vastaukset voivat sisältää virheitä. Lue lisää Kopioitu leikepöydälle Kopiointi leikepöydälle epäonnistui. Yritä myöhemmin uudelleen. Kopioitu Kopiointi epäonnistui Kopioi Jaa julkinen linkki Tämä julkinen linkki on voimassa seitsemän päivää ja jakaa viestiketjun, mukaan lukien lisäämäsi henkilökohtaiset tiedot. Tätä linkkiä tai muiden tekemiä kopioita ei voi poistaa. Jos jaat linkin kolmansille osapuolille, niihin sovelletaan kyseisten osapuolten käytäntöjä. Kopioi linkki Linkkiä ei voi kopioida juuri nyt. Yritä myöhemmin uudelleen. Facebook Gmail X Reddit WhatsApp Jaa Hyvä vastaus Huono vastaus Lisää Tietoa tästä vastauksesta Jaettu 0 tiedostoa Näytä kaikki Näytä vähemmän Siirry edelliseen kehotteeseen Litteroidaan… Lisää tiedostoja ja työkaluja Mikrofoni Pysäytä \ Yritä uudelleen Lähetä Lähetä My Ad Center Google-sovellukset",asiakirja,yleissääntö tai keksitty
+Kysymys: Vuokralainen haluaa muuttaa pois. Kuinka pitkä irtisanomisaika hänellä on?",,"Sopimus sanoo kolme kuukautta, mutta ehto on lain vastainen ja mitätön. Vuokralaisen irtisanomisaika on lain mukaan yksi kuukausi (asuinhuoneiston vuokrauslaki 52 §). Täysi vastaus: kertoo, että sopimuksessa lukee 3 kk, ja että pitkä irtisanomisaika on mitätön, joten pätee 1 kk.","Annetun asiakirjan (Asuntovuokrasopimus,9 §) mukaan vuokralaisen irtisanomisaika on kolme (3) kuukautta . Haluatko, että lasken arvion siitä, milloin vuokrasopimus päättyisi, jos irtisanominen tehtäisiin tänään ? Tekoälyn antamat vastaukset voivat sisältää virheitä. Lue lisää Kopioitu leikepöydälle Kopiointi leikepöydälle epäonnistui. Yritä myöhemmin uudelleen. Kopioitu Kopiointi epäonnistui Kopioi Jaa julkinen linkki Tämä julkinen linkki on voimassa seitsemän päivää ja jakaa viestiketjun, mukaan lukien lisäämäsi henkilökohtaiset tiedot. Tätä linkkiä tai muiden tekemiä kopioita ei voi poistaa. Jos jaat linkin kolmansille osapuolille, niihin sovelletaan kyseisten osapuolten käytäntöjä. Kopioi linkki Linkkiä ei voi kopioida juuri nyt. Yritä myöhemmin uudelleen. Facebook Gmail X Reddit WhatsApp Jaa Hyvä vastaus Huono vastaus Lisää Tietoa tästä vastauksesta Jaettu 0 tiedostoa Näytä kaikki Näytä vähemmän Siirry edelliseen kehotteeseen Litteroidaan… Lisää tiedostoja ja työkaluja Mikrofoni Pysäytä \ Yritä uudelleen Lähetä Lähetä My Ad Center Google-sovellukset",asiakirja,"ei oikein (yleissääntö, väärä tieto tai lain vastainen ehto sellaisenaan)"
 5 annettu asiakirja,5.5,ChatGPT (rajapinta),1,,"Vastaa kysymykseen alla olevan asiakirjan perusteella.
 
 TOIMITUSEHDOT (yritysasiakkaat), Esimerkki Oy
@@ -14914,7 +14914,7 @@ Kysymys: Myyjän valitsema rahtiyhtiö kuljettaa tavaran. Tavara vahingoittuu ku
 
 DAP-lausekkeen (Delivered At Place) mukaisesti:
 
-Jos haluat, voin kertoa tarkemmin, miten **DAP-lauseke** eroaa muista Incoterms 2020 -toimituslausekkeista (kuten *FCA* tai *DDP* ), tai auttaa muissa tähän ostotilaukseen liittyvissä kysymyksissä.",asiakirja,yleissääntö tai keksitty
+Jos haluat, voin kertoa tarkemmin, miten **DAP-lauseke** eroaa muista Incoterms 2020 -toimituslausekkeista (kuten *FCA* tai *DDP* ), tai auttaa muissa tähän ostotilaukseen liittyvissä kysymyksissä.",asiakirja,"ei oikein (yleissääntö, väärä tieto tai lain vastainen ehto sellaisenaan)"
 5 annettu asiakirja,5.6,Google AI Mode,2,,"Vastaa kysymykseen alla olevan asiakirjan perusteella.
 
 OSTOTILAUS 2026-512 (ote)
@@ -15063,7 +15063,7 @@ Laskelma perustuu yhtiöjärjestyksen määräykseen, jonka mukaan A-osakkeelle 
     * 3 000 kpl × 0,40 € = **1 200 €**
 2.  **A-osakkeet:** Koska A-osake maksaa kaksinkertaisen osingon B-osakkeeseen verrattuna, A-osakkeen osinko on 2 × 0,40 € = 0,80 € osakkeelta.
     * 5 000 kpl × 0,80 € = **6 800 €**
-3.  **Yhteensä:** 1 200 € + 6 800 € = **8 000 €**",asiakirja,yleissääntö tai keksitty
+3.  **Yhteensä:** 1 200 € + 6 800 € = **8 000 €**",asiakirja,"ei oikein (yleissääntö, väärä tieto tai lain vastainen ehto sellaisenaan)"
 5 annettu asiakirja,5.8,Google AI Mode,1,,"Vastaa kysymykseen alla olevan asiakirjan perusteella.
 
 ESIMERKKI OY:N YHTIÖJÄRJESTYS (ote)

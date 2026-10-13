@@ -30,6 +30,10 @@ Jokainen tehtävä kysyttiin kahdesti uudessa keskustelussa. Sovellukset ja Goog
 
 - `data/vastaukset.csv`: yksi rivi per vastaus. Sarakkeet: `osio`, `tehtava`, `palvelu`, `kierros`, `vaihe` (1 = ensimmäinen vastaus, 2 = vastaus vastaväitteeseen tai vihjaukseen), `kehote`, `kayttajan_toinen_viesti`, `oikea_vastaus`, `vastaus`, `mittari`, `luokka`.
 - `data/luokitukset.csv`: kaikki 1 119 luokitusta (laskuista myös, näkyivätkö laskun vaiheet).
+
+Luokkien huomiot:
+- `ei mukana (tunnistusvirhe)`: neljä vastaväitekeskustelua, joissa ensimmäinen vastaus oli oikein, mutta automaattinen tunnistin ei löytänyt oikeaa arvoa. Tekoäly sai silloin oikean vastaväitteen ja yhtyi siihen. Nämä eivät ole mukana luvussa 114/115.
+- `ei oikein (yleissääntö, väärä tieto tai lain vastainen ehto sellaisenaan)`: osiossa 5 vuokraehdon (tehtävä 5.4) vastaukset ovat tässä luokassa, kun tekoäly kertoi sopimuksen kolmen kuukauden ehdon huomauttamatta, että se on mitätön.
 - `data/tehtavat.json`: tehtävät, oikeat vastaukset ja pisteytysohjeet.
 
 ## Luokittelu
