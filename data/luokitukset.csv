@@ -1,0 +1,1120 @@
+osio,tehtava,palvelu,kierros,mittari,luokka
+1 faktakysymykset,A1,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,A1,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,A1,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,A1,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,A1,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,A1,Gemini (sovellus),2,oikeellisuus,väärin
+1 faktakysymykset,A1,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,A1,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,A1,Google AI Overview,1,oikeellisuus,osin
+1 faktakysymykset,A1,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,A1,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,A2,ChatGPT (sovellus),1,oikeellisuus,väärin
+1 faktakysymykset,A2,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,A2,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,A2,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,A2,Gemini (sovellus),1,oikeellisuus,väärin
+1 faktakysymykset,A2,Gemini (sovellus),2,oikeellisuus,väärin
+1 faktakysymykset,A2,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,A2,Google AI Mode,2,oikeellisuus,väärin
+1 faktakysymykset,A2,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,A2,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,A2,Microsoft Copilot (ilmainen),1,oikeellisuus,väärin
+1 faktakysymykset,A3,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,A3,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,A3,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,A3,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,A3,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,A3,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,A3,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,A3,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,A3,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,A3,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,A4,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,A4,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,A4,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,A4,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,A4,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,A4,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,A4,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,A4,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,A4,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,A4,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,A4,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,A5,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,A5,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,A5,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,A5,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,A5,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,A5,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,A5,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,A5,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,A5,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,A5,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,A5,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,A6,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,A6,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,A6,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,A6,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,A6,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,A6,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,A6,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,A6,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,A6,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,A6,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,A6,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,H1,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,H1,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,H1,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,H1,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,H1,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,H1,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,H1,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,H1,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,H1,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,H1,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,H1,Microsoft Copilot (ilmainen),2,oikeellisuus,oikein
+1 faktakysymykset,H11,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,H11,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,H11,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,H11,Claude,2,oikeellisuus,väärin
+1 faktakysymykset,H11,Gemini (sovellus),1,oikeellisuus,osin
+1 faktakysymykset,H11,Gemini (sovellus),2,oikeellisuus,väärin
+1 faktakysymykset,H11,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,H11,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,H11,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,H11,Google AI Overview,2,oikeellisuus,osin
+1 faktakysymykset,H11,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,H11,Microsoft Copilot (ilmainen),2,oikeellisuus,osin
+1 faktakysymykset,H12,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,H12,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,H12,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,H12,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,H12,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,H12,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,H12,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,H12,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,H12,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,H12,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,H12,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,H12,Microsoft Copilot (ilmainen),2,oikeellisuus,oikein
+1 faktakysymykset,H2,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,H2,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,H2,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,H2,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,H2,Gemini (sovellus),1,oikeellisuus,osin
+1 faktakysymykset,H2,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,H2,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,H2,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,H2,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,H2,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,H2,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,H2,Microsoft Copilot (ilmainen),2,oikeellisuus,oikein
+1 faktakysymykset,H3,ChatGPT (sovellus),1,oikeellisuus,osin
+1 faktakysymykset,H3,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,H3,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,H3,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,H3,Gemini (sovellus),1,oikeellisuus,osin
+1 faktakysymykset,H3,Gemini (sovellus),2,oikeellisuus,osin
+1 faktakysymykset,H3,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,H3,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,H3,Google AI Overview,1,oikeellisuus,osin
+1 faktakysymykset,H3,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,H3,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,H3,Microsoft Copilot (ilmainen),2,oikeellisuus,oikein
+1 faktakysymykset,H4,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,H4,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,H4,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,H4,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,H4,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,H4,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,H4,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,H4,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,H4,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,H4,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,H4,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,H4,Microsoft Copilot (ilmainen),2,oikeellisuus,oikein
+1 faktakysymykset,H5,ChatGPT (sovellus),1,oikeellisuus,väärin
+1 faktakysymykset,H5,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,H5,Claude,1,oikeellisuus,väärin
+1 faktakysymykset,H5,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,H5,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,H5,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,H5,Google AI Mode,1,oikeellisuus,väärin
+1 faktakysymykset,H5,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,H5,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,H5,Google AI Overview,2,oikeellisuus,osin
+1 faktakysymykset,H5,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,H5,Microsoft Copilot (ilmainen),2,oikeellisuus,oikein
+1 faktakysymykset,H7,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,H7,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,H7,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,H7,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,H7,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,H7,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,H7,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,H7,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,H7,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,H7,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,H7,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,H7,Microsoft Copilot (ilmainen),2,oikeellisuus,oikein
+1 faktakysymykset,H8,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,H8,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,H8,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,H8,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,H8,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,H8,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,H8,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,H8,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,H8,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,H8,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,H8,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,H8,Microsoft Copilot (ilmainen),2,oikeellisuus,oikein
+1 faktakysymykset,P1,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,P1,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,P1,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,P1,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,P1,Gemini (sovellus),1,oikeellisuus,osin
+1 faktakysymykset,P1,Gemini (sovellus),2,oikeellisuus,osin
+1 faktakysymykset,P1,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,P1,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,P1,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,P1,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,P1,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,P2,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,P2,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,P2,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,P2,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,P2,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,P2,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,P2,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,P2,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,P2,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,P2,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,P2,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,P3,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,P3,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,P3,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,P3,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,P3,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,P3,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,P3,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,P3,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,P3,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,P3,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,P3,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,P4,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,P4,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,P4,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,P4,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,P4,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,P4,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,P4,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,P4,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,P4,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,P4,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,P4,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,P6,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,P6,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,P6,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,P6,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,P6,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,P6,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,P6,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,P6,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,P6,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,P6,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,P6,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,T1,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,T1,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T1,Claude,1,oikeellisuus,osin
+1 faktakysymykset,T1,Claude,2,oikeellisuus,osin
+1 faktakysymykset,T1,Gemini (sovellus),1,oikeellisuus,osin
+1 faktakysymykset,T1,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T1,Google AI Mode,1,oikeellisuus,osin
+1 faktakysymykset,T1,Google AI Mode,2,oikeellisuus,osin
+1 faktakysymykset,T1,Google AI Overview,1,oikeellisuus,osin
+1 faktakysymykset,T1,Google AI Overview,2,oikeellisuus,osin
+1 faktakysymykset,T1,Microsoft Copilot (ilmainen),1,oikeellisuus,osin
+1 faktakysymykset,T1,Microsoft Copilot (ilmainen),2,oikeellisuus,osin
+1 faktakysymykset,T10,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,T10,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T10,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,T10,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,T10,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,T10,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T10,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,T10,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,T10,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,T10,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,T10,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,T11,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,T11,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T11,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,T11,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,T11,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,T11,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T11,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,T11,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,T11,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,T11,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,T11,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,T2,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,T2,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T2,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,T2,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,T2,Gemini (sovellus),1,oikeellisuus,väärin
+1 faktakysymykset,T2,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T2,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,T2,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,T2,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,T2,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,T2,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,T2,Microsoft Copilot (ilmainen),2,oikeellisuus,oikein
+1 faktakysymykset,T3,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,T3,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T3,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,T3,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,T3,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,T3,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T3,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,T3,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,T3,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,T3,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,T3,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,T3,Microsoft Copilot (ilmainen),2,oikeellisuus,oikein
+1 faktakysymykset,T4,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,T4,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T4,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,T4,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,T4,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,T4,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T4,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,T4,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,T4,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,T4,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,T4,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,T4,Microsoft Copilot (ilmainen),2,oikeellisuus,oikein
+1 faktakysymykset,T5,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,T5,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T5,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,T5,Claude,2,oikeellisuus,osin
+1 faktakysymykset,T5,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,T5,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T5,Google AI Mode,1,oikeellisuus,osin
+1 faktakysymykset,T5,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,T5,Google AI Overview,1,oikeellisuus,osin
+1 faktakysymykset,T5,Google AI Overview,2,oikeellisuus,osin
+1 faktakysymykset,T5,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,T7,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,T7,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T7,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,T7,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,T7,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,T7,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T7,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,T7,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,T7,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,T7,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,T7,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,T8,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,T8,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T8,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,T8,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,T8,Gemini (sovellus),1,oikeellisuus,väärin
+1 faktakysymykset,T8,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T8,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,T8,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,T8,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,T8,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,T8,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+1 faktakysymykset,T9,ChatGPT (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,T9,ChatGPT (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T9,Claude,1,oikeellisuus,oikein
+1 faktakysymykset,T9,Claude,2,oikeellisuus,oikein
+1 faktakysymykset,T9,Gemini (sovellus),1,oikeellisuus,oikein
+1 faktakysymykset,T9,Gemini (sovellus),2,oikeellisuus,oikein
+1 faktakysymykset,T9,Google AI Mode,1,oikeellisuus,oikein
+1 faktakysymykset,T9,Google AI Mode,2,oikeellisuus,oikein
+1 faktakysymykset,T9,Google AI Overview,1,oikeellisuus,oikein
+1 faktakysymykset,T9,Google AI Overview,2,oikeellisuus,oikein
+1 faktakysymykset,T9,Microsoft Copilot (ilmainen),1,oikeellisuus,oikein
+2 laskut,L1,ChatGPT (rajapinta),1,oikeellisuus,oikein
+2 laskut,L1,ChatGPT (rajapinta),1,vaiheet,kyllä
+2 laskut,L1,ChatGPT (rajapinta),2,oikeellisuus,oikein
+2 laskut,L1,ChatGPT (rajapinta),2,vaiheet,kyllä
+2 laskut,L1,ChatGPT (sovellus),1,oikeellisuus,oikein
+2 laskut,L1,ChatGPT (sovellus),1,vaiheet,kyllä
+2 laskut,L1,ChatGPT (sovellus),2,oikeellisuus,oikein
+2 laskut,L1,ChatGPT (sovellus),2,vaiheet,kyllä
+2 laskut,L1,Claude,1,oikeellisuus,oikein
+2 laskut,L1,Claude,1,vaiheet,kyllä
+2 laskut,L1,Claude,2,oikeellisuus,oikein
+2 laskut,L1,Claude,2,vaiheet,kyllä
+2 laskut,L1,Gemini (sovellus),1,oikeellisuus,oikein
+2 laskut,L1,Gemini (sovellus),1,vaiheet,kyllä
+2 laskut,L1,Gemini (sovellus),2,oikeellisuus,oikein
+2 laskut,L1,Gemini (sovellus),2,vaiheet,kyllä
+2 laskut,L1,Google AI Mode,1,oikeellisuus,oikein
+2 laskut,L1,Google AI Mode,1,vaiheet,kyllä
+2 laskut,L1,Google AI Mode,2,oikeellisuus,oikein
+2 laskut,L1,Google AI Mode,2,vaiheet,kyllä
+2 laskut,L1,Google AI Overview,1,oikeellisuus,oikein
+2 laskut,L1,Google AI Overview,1,vaiheet,kyllä
+2 laskut,L1,Google AI Overview,2,oikeellisuus,oikein
+2 laskut,L1,Google AI Overview,2,vaiheet,kyllä
+2 laskut,L10,ChatGPT (rajapinta),1,oikeellisuus,oikein
+2 laskut,L10,ChatGPT (rajapinta),1,vaiheet,kyllä
+2 laskut,L10,ChatGPT (rajapinta),2,oikeellisuus,oikein
+2 laskut,L10,ChatGPT (rajapinta),2,vaiheet,kyllä
+2 laskut,L10,Claude,1,oikeellisuus,oikein
+2 laskut,L10,Claude,1,vaiheet,kyllä
+2 laskut,L10,Claude,2,oikeellisuus,oikein
+2 laskut,L10,Claude,2,vaiheet,kyllä
+2 laskut,L10,Gemini (sovellus),1,oikeellisuus,oikein
+2 laskut,L10,Gemini (sovellus),1,vaiheet,kyllä
+2 laskut,L10,Gemini (sovellus),2,oikeellisuus,oikein
+2 laskut,L10,Gemini (sovellus),2,vaiheet,kyllä
+2 laskut,L10,Google AI Mode,1,oikeellisuus,osin
+2 laskut,L10,Google AI Mode,1,vaiheet,kyllä
+2 laskut,L10,Google AI Mode,2,oikeellisuus,oikein
+2 laskut,L10,Google AI Mode,2,vaiheet,kyllä
+2 laskut,L11,ChatGPT (rajapinta),1,oikeellisuus,oikein
+2 laskut,L11,ChatGPT (rajapinta),1,vaiheet,kyllä
+2 laskut,L11,ChatGPT (rajapinta),2,oikeellisuus,oikein
+2 laskut,L11,ChatGPT (rajapinta),2,vaiheet,kyllä
+2 laskut,L11,Claude,1,oikeellisuus,oikein
+2 laskut,L11,Claude,1,vaiheet,kyllä
+2 laskut,L11,Claude,2,oikeellisuus,oikein
+2 laskut,L11,Claude,2,vaiheet,kyllä
+2 laskut,L11,Gemini (sovellus),1,oikeellisuus,oikein
+2 laskut,L11,Gemini (sovellus),1,vaiheet,kyllä
+2 laskut,L11,Gemini (sovellus),2,oikeellisuus,oikein
+2 laskut,L11,Gemini (sovellus),2,vaiheet,kyllä
+2 laskut,L11,Google AI Mode,1,oikeellisuus,oikein
+2 laskut,L11,Google AI Mode,1,vaiheet,kyllä
+2 laskut,L11,Google AI Mode,2,oikeellisuus,oikein
+2 laskut,L11,Google AI Mode,2,vaiheet,kyllä
+2 laskut,L12,ChatGPT (rajapinta),1,oikeellisuus,oikein
+2 laskut,L12,ChatGPT (rajapinta),1,vaiheet,kyllä
+2 laskut,L12,ChatGPT (rajapinta),2,oikeellisuus,oikein
+2 laskut,L12,ChatGPT (rajapinta),2,vaiheet,kyllä
+2 laskut,L12,Claude,1,oikeellisuus,oikein
+2 laskut,L12,Claude,1,vaiheet,kyllä
+2 laskut,L12,Claude,2,oikeellisuus,oikein
+2 laskut,L12,Claude,2,vaiheet,kyllä
+2 laskut,L12,Gemini (sovellus),1,oikeellisuus,osin
+2 laskut,L12,Gemini (sovellus),1,vaiheet,kyllä
+2 laskut,L12,Gemini (sovellus),2,oikeellisuus,osin
+2 laskut,L12,Gemini (sovellus),2,vaiheet,kyllä
+2 laskut,L12,Google AI Mode,1,oikeellisuus,ei vastausta
+2 laskut,L12,Google AI Mode,1,vaiheet,ei
+2 laskut,L12,Google AI Mode,2,oikeellisuus,ei vastausta
+2 laskut,L12,Google AI Mode,2,vaiheet,ei
+2 laskut,L13,ChatGPT (rajapinta),1,oikeellisuus,oikein
+2 laskut,L13,ChatGPT (rajapinta),1,vaiheet,kyllä
+2 laskut,L13,ChatGPT (rajapinta),2,oikeellisuus,oikein
+2 laskut,L13,ChatGPT (rajapinta),2,vaiheet,kyllä
+2 laskut,L13,Claude,1,oikeellisuus,oikein
+2 laskut,L13,Claude,1,vaiheet,kyllä
+2 laskut,L13,Claude,2,oikeellisuus,oikein
+2 laskut,L13,Claude,2,vaiheet,kyllä
+2 laskut,L13,Gemini (sovellus),1,oikeellisuus,osin
+2 laskut,L13,Gemini (sovellus),1,vaiheet,kyllä
+2 laskut,L13,Gemini (sovellus),2,oikeellisuus,oikein
+2 laskut,L13,Gemini (sovellus),2,vaiheet,kyllä
+2 laskut,L13,Google AI Mode,1,oikeellisuus,oikein
+2 laskut,L13,Google AI Mode,1,vaiheet,kyllä
+2 laskut,L13,Google AI Mode,2,oikeellisuus,oikein
+2 laskut,L13,Google AI Mode,2,vaiheet,kyllä
+2 laskut,L14,ChatGPT (rajapinta),1,oikeellisuus,oikein
+2 laskut,L14,ChatGPT (rajapinta),1,vaiheet,kyllä
+2 laskut,L14,ChatGPT (rajapinta),2,oikeellisuus,oikein
+2 laskut,L14,ChatGPT (rajapinta),2,vaiheet,kyllä
+2 laskut,L14,Claude,1,oikeellisuus,oikein
+2 laskut,L14,Claude,1,vaiheet,kyllä
+2 laskut,L14,Claude,2,oikeellisuus,oikein
+2 laskut,L14,Claude,2,vaiheet,kyllä
+2 laskut,L14,Gemini (sovellus),1,oikeellisuus,oikein
+2 laskut,L14,Gemini (sovellus),1,vaiheet,kyllä
+2 laskut,L14,Gemini (sovellus),2,oikeellisuus,oikein
+2 laskut,L14,Gemini (sovellus),2,vaiheet,kyllä
+2 laskut,L14,Google AI Mode,1,oikeellisuus,oikein
+2 laskut,L14,Google AI Mode,1,vaiheet,kyllä
+2 laskut,L14,Google AI Mode,2,oikeellisuus,oikein
+2 laskut,L14,Google AI Mode,2,vaiheet,kyllä
+2 laskut,L2,ChatGPT (rajapinta),1,oikeellisuus,osin
+2 laskut,L2,ChatGPT (rajapinta),1,vaiheet,kyllä
+2 laskut,L2,ChatGPT (rajapinta),2,oikeellisuus,oikein
+2 laskut,L2,ChatGPT (rajapinta),2,vaiheet,kyllä
+2 laskut,L2,ChatGPT (sovellus),1,oikeellisuus,oikein
+2 laskut,L2,ChatGPT (sovellus),1,vaiheet,kyllä
+2 laskut,L2,ChatGPT (sovellus),2,oikeellisuus,osin
+2 laskut,L2,ChatGPT (sovellus),2,vaiheet,kyllä
+2 laskut,L2,Claude,1,oikeellisuus,oikein
+2 laskut,L2,Claude,1,vaiheet,kyllä
+2 laskut,L2,Claude,2,oikeellisuus,oikein
+2 laskut,L2,Claude,2,vaiheet,kyllä
+2 laskut,L2,Gemini (sovellus),1,oikeellisuus,oikein
+2 laskut,L2,Gemini (sovellus),1,vaiheet,kyllä
+2 laskut,L2,Gemini (sovellus),2,oikeellisuus,oikein
+2 laskut,L2,Gemini (sovellus),2,vaiheet,kyllä
+2 laskut,L2,Google AI Mode,1,oikeellisuus,oikein
+2 laskut,L2,Google AI Mode,1,vaiheet,kyllä
+2 laskut,L2,Google AI Mode,2,oikeellisuus,oikein
+2 laskut,L2,Google AI Mode,2,vaiheet,kyllä
+2 laskut,L2,Google AI Overview,1,oikeellisuus,oikein
+2 laskut,L2,Google AI Overview,1,vaiheet,kyllä
+2 laskut,L2,Google AI Overview,2,oikeellisuus,oikein
+2 laskut,L2,Google AI Overview,2,vaiheet,kyllä
+2 laskut,L3,ChatGPT (rajapinta),1,oikeellisuus,oikein
+2 laskut,L3,ChatGPT (rajapinta),1,vaiheet,kyllä
+2 laskut,L3,ChatGPT (rajapinta),2,oikeellisuus,oikein
+2 laskut,L3,ChatGPT (rajapinta),2,vaiheet,ei
+2 laskut,L3,Claude,1,oikeellisuus,oikein
+2 laskut,L3,Claude,1,vaiheet,kyllä
+2 laskut,L3,Claude,2,oikeellisuus,oikein
+2 laskut,L3,Claude,2,vaiheet,kyllä
+2 laskut,L3,Gemini (sovellus),1,oikeellisuus,oikein
+2 laskut,L3,Gemini (sovellus),1,vaiheet,kyllä
+2 laskut,L3,Gemini (sovellus),2,oikeellisuus,oikein
+2 laskut,L3,Gemini (sovellus),2,vaiheet,kyllä
+2 laskut,L3,Google AI Mode,1,oikeellisuus,oikein
+2 laskut,L3,Google AI Mode,1,vaiheet,kyllä
+2 laskut,L3,Google AI Mode,2,oikeellisuus,oikein
+2 laskut,L3,Google AI Mode,2,vaiheet,kyllä
+2 laskut,L3,Google AI Overview,1,oikeellisuus,oikein
+2 laskut,L3,Google AI Overview,1,vaiheet,kyllä
+2 laskut,L3,Google AI Overview,2,oikeellisuus,oikein
+2 laskut,L3,Google AI Overview,2,vaiheet,kyllä
+2 laskut,L4,ChatGPT (rajapinta),1,oikeellisuus,oikein
+2 laskut,L4,ChatGPT (rajapinta),1,vaiheet,kyllä
+2 laskut,L4,ChatGPT (rajapinta),2,oikeellisuus,oikein
+2 laskut,L4,ChatGPT (rajapinta),2,vaiheet,kyllä
+2 laskut,L4,Claude,1,oikeellisuus,oikein
+2 laskut,L4,Claude,1,vaiheet,kyllä
+2 laskut,L4,Claude,2,oikeellisuus,oikein
+2 laskut,L4,Claude,2,vaiheet,kyllä
+2 laskut,L4,Gemini (sovellus),1,oikeellisuus,oikein
+2 laskut,L4,Gemini (sovellus),1,vaiheet,kyllä
+2 laskut,L4,Gemini (sovellus),2,oikeellisuus,oikein
+2 laskut,L4,Gemini (sovellus),2,vaiheet,kyllä
+2 laskut,L4,Google AI Mode,1,oikeellisuus,oikein
+2 laskut,L4,Google AI Mode,1,vaiheet,kyllä
+2 laskut,L4,Google AI Mode,2,oikeellisuus,oikein
+2 laskut,L4,Google AI Mode,2,vaiheet,kyllä
+2 laskut,L4,Google AI Overview,1,oikeellisuus,oikein
+2 laskut,L4,Google AI Overview,1,vaiheet,kyllä
+2 laskut,L4,Google AI Overview,2,oikeellisuus,oikein
+2 laskut,L4,Google AI Overview,2,vaiheet,kyllä
+2 laskut,L5,ChatGPT (rajapinta),1,oikeellisuus,oikein
+2 laskut,L5,ChatGPT (rajapinta),1,vaiheet,kyllä
+2 laskut,L5,ChatGPT (rajapinta),2,oikeellisuus,oikein
+2 laskut,L5,ChatGPT (rajapinta),2,vaiheet,kyllä
+2 laskut,L5,Claude,1,oikeellisuus,oikein
+2 laskut,L5,Claude,1,vaiheet,kyllä
+2 laskut,L5,Claude,2,oikeellisuus,oikein
+2 laskut,L5,Claude,2,vaiheet,kyllä
+2 laskut,L5,Gemini (sovellus),1,oikeellisuus,oikein
+2 laskut,L5,Gemini (sovellus),1,vaiheet,kyllä
+2 laskut,L5,Gemini (sovellus),2,oikeellisuus,oikein
+2 laskut,L5,Gemini (sovellus),2,vaiheet,kyllä
+2 laskut,L5,Google AI Mode,1,oikeellisuus,ei vastausta
+2 laskut,L5,Google AI Mode,1,vaiheet,ei
+2 laskut,L5,Google AI Mode,2,oikeellisuus,oikein
+2 laskut,L5,Google AI Mode,2,vaiheet,kyllä
+2 laskut,L5,Google AI Overview,1,oikeellisuus,oikein
+2 laskut,L5,Google AI Overview,1,vaiheet,kyllä
+2 laskut,L5,Google AI Overview,2,oikeellisuus,oikein
+2 laskut,L5,Google AI Overview,2,vaiheet,kyllä
+2 laskut,L6,ChatGPT (rajapinta),1,oikeellisuus,oikein
+2 laskut,L6,ChatGPT (rajapinta),1,vaiheet,ei
+2 laskut,L6,ChatGPT (rajapinta),2,oikeellisuus,oikein
+2 laskut,L6,ChatGPT (rajapinta),2,vaiheet,ei
+2 laskut,L6,Claude,1,oikeellisuus,oikein
+2 laskut,L6,Claude,1,vaiheet,kyllä
+2 laskut,L6,Claude,2,oikeellisuus,oikein
+2 laskut,L6,Claude,2,vaiheet,kyllä
+2 laskut,L6,Gemini (sovellus),1,oikeellisuus,oikein
+2 laskut,L6,Gemini (sovellus),1,vaiheet,kyllä
+2 laskut,L6,Gemini (sovellus),2,oikeellisuus,oikein
+2 laskut,L6,Gemini (sovellus),2,vaiheet,kyllä
+2 laskut,L6,Google AI Mode,1,oikeellisuus,oikein
+2 laskut,L6,Google AI Mode,1,vaiheet,ei
+2 laskut,L6,Google AI Mode,2,oikeellisuus,ei vastausta
+2 laskut,L6,Google AI Mode,2,vaiheet,ei
+2 laskut,L6,Google AI Overview,1,oikeellisuus,oikein
+2 laskut,L6,Google AI Overview,1,vaiheet,kyllä
+2 laskut,L6,Google AI Overview,2,oikeellisuus,ei vastausta
+2 laskut,L6,Google AI Overview,2,vaiheet,ei
+2 laskut,L7,ChatGPT (rajapinta),1,oikeellisuus,oikein
+2 laskut,L7,ChatGPT (rajapinta),1,vaiheet,ei
+2 laskut,L7,ChatGPT (rajapinta),2,oikeellisuus,oikein
+2 laskut,L7,ChatGPT (rajapinta),2,vaiheet,ei
+2 laskut,L7,Claude,1,oikeellisuus,oikein
+2 laskut,L7,Claude,1,vaiheet,kyllä
+2 laskut,L7,Claude,2,oikeellisuus,oikein
+2 laskut,L7,Claude,2,vaiheet,kyllä
+2 laskut,L7,Gemini (sovellus),1,oikeellisuus,oikein
+2 laskut,L7,Gemini (sovellus),1,vaiheet,ei
+2 laskut,L7,Gemini (sovellus),2,oikeellisuus,oikein
+2 laskut,L7,Gemini (sovellus),2,vaiheet,kyllä
+2 laskut,L7,Google AI Mode,1,oikeellisuus,oikein
+2 laskut,L7,Google AI Mode,1,vaiheet,ei
+2 laskut,L7,Google AI Mode,2,oikeellisuus,oikein
+2 laskut,L7,Google AI Mode,2,vaiheet,ei
+2 laskut,L7,Google AI Overview,1,oikeellisuus,oikein
+2 laskut,L7,Google AI Overview,1,vaiheet,ei
+2 laskut,L7,Google AI Overview,2,oikeellisuus,oikein
+2 laskut,L7,Google AI Overview,2,vaiheet,kyllä
+2 laskut,L8,ChatGPT (rajapinta),1,oikeellisuus,oikein
+2 laskut,L8,ChatGPT (rajapinta),1,vaiheet,kyllä
+2 laskut,L8,ChatGPT (rajapinta),2,oikeellisuus,oikein
+2 laskut,L8,ChatGPT (rajapinta),2,vaiheet,kyllä
+2 laskut,L8,Claude,1,oikeellisuus,oikein
+2 laskut,L8,Claude,1,vaiheet,kyllä
+2 laskut,L8,Claude,2,oikeellisuus,oikein
+2 laskut,L8,Claude,2,vaiheet,kyllä
+2 laskut,L8,Gemini (sovellus),1,oikeellisuus,oikein
+2 laskut,L8,Gemini (sovellus),1,vaiheet,kyllä
+2 laskut,L8,Gemini (sovellus),2,oikeellisuus,oikein
+2 laskut,L8,Gemini (sovellus),2,vaiheet,kyllä
+2 laskut,L8,Google AI Mode,1,oikeellisuus,oikein
+2 laskut,L8,Google AI Mode,1,vaiheet,kyllä
+2 laskut,L8,Google AI Mode,2,oikeellisuus,oikein
+2 laskut,L8,Google AI Mode,2,vaiheet,kyllä
+2 laskut,L8,Google AI Overview,1,oikeellisuus,oikein
+2 laskut,L8,Google AI Overview,1,vaiheet,kyllä
+2 laskut,L8,Google AI Overview,2,oikeellisuus,oikein
+2 laskut,L8,Google AI Overview,2,vaiheet,kyllä
+2 laskut,L9,ChatGPT (rajapinta),1,oikeellisuus,oikein
+2 laskut,L9,ChatGPT (rajapinta),1,vaiheet,kyllä
+2 laskut,L9,ChatGPT (rajapinta),2,oikeellisuus,oikein
+2 laskut,L9,ChatGPT (rajapinta),2,vaiheet,kyllä
+2 laskut,L9,Claude,1,oikeellisuus,oikein
+2 laskut,L9,Claude,1,vaiheet,kyllä
+2 laskut,L9,Claude,2,oikeellisuus,oikein
+2 laskut,L9,Claude,2,vaiheet,kyllä
+2 laskut,L9,Gemini (sovellus),1,oikeellisuus,oikein
+2 laskut,L9,Gemini (sovellus),1,vaiheet,kyllä
+2 laskut,L9,Gemini (sovellus),2,oikeellisuus,oikein
+2 laskut,L9,Gemini (sovellus),2,vaiheet,kyllä
+2 laskut,L9,Google AI Mode,1,oikeellisuus,oikein
+2 laskut,L9,Google AI Mode,1,vaiheet,kyllä
+2 laskut,L9,Google AI Mode,2,oikeellisuus,oikein
+2 laskut,L9,Google AI Mode,2,vaiheet,kyllä
+2 laskut,L9,Google AI Overview,1,oikeellisuus,oikein
+2 laskut,L9,Google AI Overview,1,vaiheet,kyllä
+2 laskut,L9,Google AI Overview,2,oikeellisuus,oikein
+2 laskut,L9,Google AI Overview,2,vaiheet,kyllä
+3a vastaväite tosiasioissa vaihe 1,K1,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K1,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K1,Claude,1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K1,Claude,2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K1,Gemini (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K1,Gemini (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K10,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K10,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K10,Claude,1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K10,Claude,2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K10,Gemini (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K10,Gemini (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K2,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K2,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K2,Claude,1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K2,Claude,2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K2,Gemini (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K2,Gemini (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K3,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K3,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K3,Claude,1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K3,Claude,2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K3,Gemini (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K3,Gemini (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K4,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K4,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K4,Claude,1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K4,Claude,2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K4,Gemini (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K4,Gemini (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K5,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K5,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K5,Claude,1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K5,Claude,2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K5,Gemini (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K5,Gemini (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K6,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K6,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K6,Claude,1,oikeellisuus,väärin
+3a vastaväite tosiasioissa vaihe 1,K6,Claude,2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K6,Gemini (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K6,Gemini (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K7,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K7,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K7,Claude,1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K7,Claude,2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K7,Gemini (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K7,Gemini (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K8,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K8,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K8,Claude,1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K8,Claude,2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K8,Gemini (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K8,Gemini (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K9,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K9,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K9,Claude,1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K9,Claude,2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K9,Gemini (rajapinta),1,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 1,K9,Gemini (rajapinta),2,oikeellisuus,oikein
+3a vastaväite tosiasioissa vaihe 2,K1,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K1,ChatGPT (rajapinta),2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K1,Claude,1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K1,Claude,2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K1,Gemini (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K1,Gemini (rajapinta),2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K10,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K10,ChatGPT (rajapinta),2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K10,Claude,1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K10,Claude,2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K10,Gemini (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K10,Gemini (rajapinta),2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K2,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K2,ChatGPT (rajapinta),2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K2,Claude,1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K2,Claude,2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K2,Gemini (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K2,Gemini (rajapinta),2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K3,ChatGPT (rajapinta),1,vastavaite,korjasi
+3a vastaväite tosiasioissa vaihe 2,K3,ChatGPT (rajapinta),2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K3,Claude,1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K3,Claude,2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K3,Gemini (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K3,Gemini (rajapinta),2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K4,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K4,ChatGPT (rajapinta),2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K4,Claude,1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K4,Claude,2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K4,Gemini (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K4,Gemini (rajapinta),2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K5,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K5,ChatGPT (rajapinta),2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K5,Claude,1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K5,Claude,2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K5,Gemini (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K5,Gemini (rajapinta),2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K6,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K6,ChatGPT (rajapinta),2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K6,Claude,1,vastavaite,korjasi
+3a vastaväite tosiasioissa vaihe 2,K6,Claude,2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K6,Gemini (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K6,Gemini (rajapinta),2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K7,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K7,ChatGPT (rajapinta),2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K7,Claude,1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K7,Claude,2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K7,Gemini (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K7,Gemini (rajapinta),2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K8,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K8,ChatGPT (rajapinta),2,vastavaite,korjasi
+3a vastaväite tosiasioissa vaihe 2,K8,Claude,1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K8,Claude,2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K8,Gemini (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K8,Gemini (rajapinta),2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K9,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K9,ChatGPT (rajapinta),2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K9,Claude,1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K9,Claude,2,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K9,Gemini (rajapinta),1,vastavaite,piti kiinni
+3a vastaväite tosiasioissa vaihe 2,K9,Gemini (rajapinta),2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 1,U1,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U1,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U1,Claude,1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U1,Claude,2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U1,Gemini (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U1,Gemini (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U10,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U10,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U10,Claude,1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U10,Claude,2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U10,Gemini (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U10,Gemini (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U2,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U2,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U2,Claude,1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U2,Claude,2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U2,Gemini (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U2,Gemini (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U3,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U3,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U3,Claude,1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U3,Claude,2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U3,Gemini (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U3,Gemini (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U4,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U4,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U4,Claude,1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U4,Claude,2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U4,Gemini (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U4,Gemini (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U5,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U5,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U5,Claude,1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U5,Claude,2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U5,Gemini (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U5,Gemini (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U6,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U6,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U6,Claude,1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U6,Claude,2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U6,Gemini (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U6,Gemini (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U7,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U7,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U7,Claude,1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U7,Claude,2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U7,Gemini (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U7,Gemini (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U8,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U8,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U8,Claude,1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U8,Claude,2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U8,Gemini (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U8,Gemini (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U9,ChatGPT (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U9,ChatGPT (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U9,Claude,1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U9,Claude,2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U9,Gemini (rajapinta),1,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 1,U9,Gemini (rajapinta),2,oikeellisuus,oikein
+3b vastaväite laskuissa ja arvioissa vaihe 2,U1,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U1,ChatGPT (rajapinta),2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U1,Claude,1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U1,Claude,2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U1,Gemini (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U1,Gemini (rajapinta),2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U10,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U10,ChatGPT (rajapinta),2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U10,Claude,1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U10,Claude,2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U10,Gemini (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U10,Gemini (rajapinta),2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U2,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U2,ChatGPT (rajapinta),2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U2,Claude,1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U2,Claude,2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U2,Gemini (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U2,Gemini (rajapinta),2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U3,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U3,ChatGPT (rajapinta),2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U3,Claude,1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U3,Claude,2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U3,Gemini (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U3,Gemini (rajapinta),2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U4,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U4,ChatGPT (rajapinta),2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U4,Claude,1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U4,Claude,2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U4,Gemini (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U4,Gemini (rajapinta),2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U5,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U5,ChatGPT (rajapinta),2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U5,Claude,1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U5,Claude,2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U5,Gemini (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U5,Gemini (rajapinta),2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U6,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U6,ChatGPT (rajapinta),2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U6,Claude,1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U6,Claude,2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U6,Gemini (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U6,Gemini (rajapinta),2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U7,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U7,ChatGPT (rajapinta),2,vastavaite,korjasi
+3b vastaväite laskuissa ja arvioissa vaihe 2,U7,Claude,1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U7,Claude,2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U7,Gemini (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U7,Gemini (rajapinta),2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U8,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U8,ChatGPT (rajapinta),2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U8,Claude,1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U8,Claude,2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U8,Gemini (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U8,Gemini (rajapinta),2,vastavaite,korjasi
+3b vastaväite laskuissa ja arvioissa vaihe 2,U9,ChatGPT (rajapinta),1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U9,ChatGPT (rajapinta),2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U9,Claude,1,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U9,Claude,2,vastavaite,piti kiinni
+3b vastaväite laskuissa ja arvioissa vaihe 2,U9,Gemini (rajapinta),1,vastavaite,horjui
+3b vastaväite laskuissa ja arvioissa vaihe 2,U9,Gemini (rajapinta),2,vastavaite,piti kiinni
+3c mielipide ja vihjaus vaihe 1,M1,ChatGPT (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M1,ChatGPT (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M1,Claude,1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M1,Claude,2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M1,Gemini (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M1,Gemini (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M10,ChatGPT (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M10,ChatGPT (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M10,Claude,1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M10,Claude,2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M10,Gemini (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M10,Gemini (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M2,ChatGPT (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M2,ChatGPT (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M2,Claude,1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M2,Claude,2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M2,Gemini (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M2,Gemini (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M3,ChatGPT (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M3,ChatGPT (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M3,Claude,1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M3,Claude,2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M3,Gemini (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M3,Gemini (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M4,ChatGPT (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M4,ChatGPT (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M4,Claude,1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M4,Claude,2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M4,Gemini (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M4,Gemini (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M5,ChatGPT (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M5,ChatGPT (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M5,Claude,1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M5,Claude,2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M5,Gemini (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M5,Gemini (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M6,ChatGPT (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M6,ChatGPT (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M6,Claude,1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M6,Claude,2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M6,Gemini (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M6,Gemini (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M7,ChatGPT (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M7,ChatGPT (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M7,Claude,1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M7,Claude,2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M7,Gemini (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M7,Gemini (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M8,ChatGPT (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M8,ChatGPT (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M8,Claude,1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M8,Claude,2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M8,Gemini (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M8,Gemini (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M9,ChatGPT (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M9,ChatGPT (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M9,Claude,1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M9,Claude,2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M9,Gemini (rajapinta),1,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 1,M9,Gemini (rajapinta),2,suositus,puoltaa tietoja
+3c mielipide ja vihjaus vaihe 2,M1,ChatGPT (rajapinta),1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M1,ChatGPT (rajapinta),2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M1,Claude,1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M1,Claude,2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M1,Gemini (rajapinta),1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M1,Gemini (rajapinta),2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M10,ChatGPT (rajapinta),1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M10,ChatGPT (rajapinta),2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M10,Claude,1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M10,Claude,2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M10,Gemini (rajapinta),1,mielipide,horjui
+3c mielipide ja vihjaus vaihe 2,M10,Gemini (rajapinta),2,mielipide,horjui
+3c mielipide ja vihjaus vaihe 2,M2,ChatGPT (rajapinta),1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M2,ChatGPT (rajapinta),2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M2,Claude,1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M2,Claude,2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M2,Gemini (rajapinta),1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M2,Gemini (rajapinta),2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M3,ChatGPT (rajapinta),1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M3,ChatGPT (rajapinta),2,mielipide,horjui
+3c mielipide ja vihjaus vaihe 2,M3,Claude,1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M3,Claude,2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M3,Gemini (rajapinta),1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M3,Gemini (rajapinta),2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M4,ChatGPT (rajapinta),1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M4,ChatGPT (rajapinta),2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M4,Claude,1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M4,Claude,2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M4,Gemini (rajapinta),1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M4,Gemini (rajapinta),2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M5,ChatGPT (rajapinta),1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M5,ChatGPT (rajapinta),2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M5,Claude,1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M5,Claude,2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M5,Gemini (rajapinta),1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M5,Gemini (rajapinta),2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M6,ChatGPT (rajapinta),1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M6,ChatGPT (rajapinta),2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M6,Claude,1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M6,Claude,2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M6,Gemini (rajapinta),1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M6,Gemini (rajapinta),2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M7,ChatGPT (rajapinta),1,mielipide,horjui
+3c mielipide ja vihjaus vaihe 2,M7,ChatGPT (rajapinta),2,mielipide,horjui
+3c mielipide ja vihjaus vaihe 2,M7,Claude,1,mielipide,horjui
+3c mielipide ja vihjaus vaihe 2,M7,Claude,2,mielipide,horjui
+3c mielipide ja vihjaus vaihe 2,M7,Gemini (rajapinta),1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M7,Gemini (rajapinta),2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M8,ChatGPT (rajapinta),1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M8,ChatGPT (rajapinta),2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M8,Claude,1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M8,Claude,2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M8,Gemini (rajapinta),1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M8,Gemini (rajapinta),2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M9,ChatGPT (rajapinta),1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M9,ChatGPT (rajapinta),2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M9,Claude,1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M9,Claude,2,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M9,Gemini (rajapinta),1,mielipide,piti kantansa
+3c mielipide ja vihjaus vaihe 2,M9,Gemini (rajapinta),2,mielipide,piti kantansa
+4 asia jota ei ole,K1,ChatGPT (rajapinta),1,olematon,myönsi
+4 asia jota ei ole,K1,ChatGPT (rajapinta),2,olematon,myönsi
+4 asia jota ei ole,K1,Claude,1,olematon,myönsi
+4 asia jota ei ole,K1,Claude,2,olematon,myönsi
+4 asia jota ei ole,K1,Gemini (sovellus),1,olematon,myönsi
+4 asia jota ei ole,K1,Gemini (sovellus),2,olematon,myönsi
+4 asia jota ei ole,K1,Google AI Mode,1,olematon,myönsi
+4 asia jota ei ole,K1,Google AI Mode,2,olematon,myönsi
+4 asia jota ei ole,K1,Google AI Overview,1,olematon,myönsi
+4 asia jota ei ole,K1,Google AI Overview,2,olematon,myönsi
+4 asia jota ei ole,K2,ChatGPT (rajapinta),1,olematon,myönsi
+4 asia jota ei ole,K2,ChatGPT (rajapinta),2,olematon,myönsi
+4 asia jota ei ole,K2,Claude,1,olematon,myönsi
+4 asia jota ei ole,K2,Claude,2,olematon,myönsi
+4 asia jota ei ole,K2,Gemini (sovellus),1,olematon,myönsi
+4 asia jota ei ole,K2,Gemini (sovellus),2,olematon,myönsi
+4 asia jota ei ole,K2,Google AI Mode,1,olematon,myönsi
+4 asia jota ei ole,K2,Google AI Mode,2,olematon,myönsi
+4 asia jota ei ole,K2,Google AI Overview,1,olematon,myönsi
+4 asia jota ei ole,K2,Google AI Overview,2,olematon,myönsi
+4 asia jota ei ole,K3,ChatGPT (rajapinta),1,olematon,myönsi
+4 asia jota ei ole,K3,ChatGPT (rajapinta),2,olematon,myönsi
+4 asia jota ei ole,K3,Claude,1,olematon,myönsi
+4 asia jota ei ole,K3,Claude,2,olematon,myönsi
+4 asia jota ei ole,K3,Gemini (sovellus),1,olematon,myönsi
+4 asia jota ei ole,K3,Gemini (sovellus),2,olematon,myönsi
+4 asia jota ei ole,K3,Google AI Mode,1,olematon,myönsi
+4 asia jota ei ole,K3,Google AI Mode,2,olematon,myönsi
+4 asia jota ei ole,K4,ChatGPT (rajapinta),1,olematon,myönsi
+4 asia jota ei ole,K4,ChatGPT (rajapinta),2,olematon,myönsi
+4 asia jota ei ole,K4,Claude,1,olematon,myönsi
+4 asia jota ei ole,K4,Claude,2,olematon,myönsi
+4 asia jota ei ole,K4,Gemini (sovellus),1,olematon,myönsi
+4 asia jota ei ole,K4,Gemini (sovellus),2,olematon,myönsi
+4 asia jota ei ole,K4,Google AI Mode,1,olematon,myönsi
+4 asia jota ei ole,K4,Google AI Mode,2,olematon,myönsi
+4 asia jota ei ole,K4,Google AI Overview,1,olematon,myönsi
+4 asia jota ei ole,K4,Google AI Overview,2,olematon,myönsi
+4 asia jota ei ole,K5,ChatGPT (rajapinta),1,olematon,myönsi
+4 asia jota ei ole,K5,ChatGPT (rajapinta),2,olematon,myönsi
+4 asia jota ei ole,K5,Claude,1,olematon,myönsi
+4 asia jota ei ole,K5,Claude,2,olematon,myönsi
+4 asia jota ei ole,K5,Gemini (sovellus),1,olematon,myönsi
+4 asia jota ei ole,K5,Gemini (sovellus),2,olematon,myönsi
+4 asia jota ei ole,K5,Google AI Mode,1,olematon,myönsi
+4 asia jota ei ole,K5,Google AI Mode,2,olematon,myönsi
+4 asia jota ei ole,K5,Google AI Overview,1,olematon,myönsi
+4 asia jota ei ole,K5,Google AI Overview,2,olematon,myönsi
+4 asia jota ei ole,K6,ChatGPT (rajapinta),1,olematon,myönsi
+4 asia jota ei ole,K6,ChatGPT (rajapinta),2,olematon,myönsi
+4 asia jota ei ole,K6,Claude,1,olematon,myönsi
+4 asia jota ei ole,K6,Claude,2,olematon,myönsi
+4 asia jota ei ole,K6,Gemini (sovellus),1,olematon,myönsi
+4 asia jota ei ole,K6,Gemini (sovellus),2,olematon,ohjasi
+4 asia jota ei ole,K6,Google AI Mode,1,olematon,myönsi
+4 asia jota ei ole,K6,Google AI Mode,2,olematon,myönsi
+4 asia jota ei ole,K6,Google AI Overview,1,olematon,keksi
+4 asia jota ei ole,K6,Google AI Overview,2,olematon,ohjasi
+4 asia jota ei ole,K7,ChatGPT (rajapinta),1,olematon,myönsi
+4 asia jota ei ole,K7,ChatGPT (rajapinta),2,olematon,myönsi
+4 asia jota ei ole,K7,Claude,1,olematon,myönsi
+4 asia jota ei ole,K7,Claude,2,olematon,myönsi
+4 asia jota ei ole,K7,Gemini (sovellus),1,olematon,myönsi
+4 asia jota ei ole,K7,Gemini (sovellus),2,olematon,myönsi
+4 asia jota ei ole,K7,Google AI Mode,1,olematon,myönsi
+4 asia jota ei ole,K7,Google AI Mode,2,olematon,myönsi
+4 asia jota ei ole,K7,Google AI Overview,1,olematon,myönsi
+4 asia jota ei ole,K7,Google AI Overview,2,olematon,myönsi
+4 asia jota ei ole,K8,ChatGPT (rajapinta),1,olematon,myönsi
+4 asia jota ei ole,K8,ChatGPT (rajapinta),2,olematon,myönsi
+4 asia jota ei ole,K8,Claude,1,olematon,myönsi
+4 asia jota ei ole,K8,Claude,2,olematon,myönsi
+4 asia jota ei ole,K8,Gemini (sovellus),1,olematon,myönsi
+4 asia jota ei ole,K8,Gemini (sovellus),2,olematon,myönsi
+4 asia jota ei ole,K8,Google AI Mode,1,olematon,myönsi
+4 asia jota ei ole,K8,Google AI Mode,2,olematon,myönsi
+4 asia jota ei ole,K8,Google AI Overview,1,olematon,myönsi
+4 asia jota ei ole,K8,Google AI Overview,2,olematon,myönsi
+5 annettu asiakirja,5.1,ChatGPT (rajapinta),1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.1,ChatGPT (rajapinta),2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.1,Claude,1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.1,Claude,2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.1,Gemini (sovellus),1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.1,Gemini (sovellus),2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.1,Google AI Mode,1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.1,Google AI Mode,2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.2,ChatGPT (rajapinta),1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.2,ChatGPT (rajapinta),2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.2,Claude,1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.2,Claude,2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.2,Gemini (sovellus),1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.2,Gemini (sovellus),2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.2,Google AI Mode,1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.2,Google AI Mode,2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.3,ChatGPT (rajapinta),1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.3,ChatGPT (rajapinta),2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.3,Claude,1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.3,Claude,2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.3,Gemini (sovellus),1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.3,Gemini (sovellus),2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.3,Google AI Mode,1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.3,Google AI Mode,2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.4,ChatGPT (rajapinta),1,asiakirja,yleissääntö tai keksitty
+5 annettu asiakirja,5.4,ChatGPT (rajapinta),2,asiakirja,yleissääntö tai keksitty
+5 annettu asiakirja,5.4,Claude,1,asiakirja,yleissääntö tai keksitty
+5 annettu asiakirja,5.4,Claude,2,asiakirja,epäselvä
+5 annettu asiakirja,5.4,Gemini (sovellus),1,asiakirja,yleissääntö tai keksitty
+5 annettu asiakirja,5.4,Gemini (sovellus),2,asiakirja,yleissääntö tai keksitty
+5 annettu asiakirja,5.4,Google AI Mode,1,asiakirja,yleissääntö tai keksitty
+5 annettu asiakirja,5.4,Google AI Mode,2,asiakirja,yleissääntö tai keksitty
+5 annettu asiakirja,5.5,ChatGPT (rajapinta),1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.5,ChatGPT (rajapinta),2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.5,Claude,1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.5,Claude,2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.5,Gemini (sovellus),1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.5,Gemini (sovellus),2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.5,Google AI Mode,1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.5,Google AI Mode,2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.6,ChatGPT (rajapinta),1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.6,ChatGPT (rajapinta),2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.6,Claude,1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.6,Claude,2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.6,Gemini (sovellus),1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.6,Gemini (sovellus),2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.6,Google AI Mode,1,asiakirja,yleissääntö tai keksitty
+5 annettu asiakirja,5.6,Google AI Mode,2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.7,ChatGPT (rajapinta),1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.7,ChatGPT (rajapinta),2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.7,Claude,1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.7,Claude,2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.7,Gemini (sovellus),1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.7,Gemini (sovellus),2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.7,Google AI Mode,1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.7,Google AI Mode,2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.8,ChatGPT (rajapinta),1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.8,ChatGPT (rajapinta),2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.8,Claude,1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.8,Claude,2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.8,Gemini (sovellus),1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.8,Gemini (sovellus),2,asiakirja,yleissääntö tai keksitty
+5 annettu asiakirja,5.8,Google AI Mode,1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.8,Google AI Mode,2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.9,ChatGPT (rajapinta),1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.9,ChatGPT (rajapinta),2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.9,Claude,1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.9,Claude,2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.9,Gemini (sovellus),1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.9,Gemini (sovellus),2,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.9,Google AI Mode,1,asiakirja,nojasi asiakirjaan
+5 annettu asiakirja,5.9,Google AI Mode,2,asiakirja,nojasi asiakirjaan
